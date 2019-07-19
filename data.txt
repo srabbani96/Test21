@@ -6,3 +6,8 @@ hi welocmoe 4
 hi welcome 5
 bye
 
+welcome
+add a nane
+hi
+bye
+
